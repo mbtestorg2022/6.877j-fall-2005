@@ -10,29 +10,315 @@ Rice, Sean. _Evolutionary Theory: Conceptual and Mathematical Foundations_. Sund
 
 Hall, Barry. _Phylogenetic Trees Made Easy_. Sunderland, MA: Sinauer, 2004. ISBN: 9780878933129 .
 
-| LEC # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 | Introduction: The Basic Dynamical Systems of Evolution | Rice: Chapter 1 |
-| 2 | Forces of Evolution I: Complications | Rice: Chapters 1 and 2 |
-| 3 | Forces of Evolution II: Optimization | Rice: Chapters 1 and 2 |
-| 4 | Forces of Evolution III: Mutation, Migration | Rice: Chapter 3 |
-| 5 | Forces of Evolution IV: Genetic Drift | Rice: Chapter 3 |
-| 6 | Evolution at The Molecular Level I | Rice: Chapters 3 and 4  {{< br >}}  {{< br >}}Hall: Appendix 1 |
-| 7 | Evolution at The Molecular Level II | Rice: Chapters 3 and 4  {{< br >}}  {{< br >}}Hall: Appendix 1 |
-| 8 | Evolution at The Molecular Level III | Rice: Chapter 6 |
-| 9 | The Algebra of Evolution: Price's Theorem I | Rice: Chapter 6 |
-| 10 | The Algebra of Evolution: Price's Theorem II | &nbsp; |
-| 11 | Detecting Selection | &nbsp; |
-| 12 | Detecting Selection: A Case Study | &nbsp; |
-| 13 | Codon Volatility | Hall: Chapters 1 and 2 |
-| 14 | Coalescent Theory and Phylogenetics | Hall: Chapters 1 and 2 |
-| 15 | Evolutionary Phylogenetics | Hall: Chapters 2 and 3 |
-| 16 | Evolutionary Phylogenetics (cont.) | Hall: Chapters 2 and 3 |
-| 17 | Quantitative Genetics I | Rice: Chapter 7 |
-| 18 | Quantitative Genetics II  {{< br >}}  {{< br >}}Host-parasite Interactions | Rice: Chapter 7 |
-| 19 | Host-parasite Interactions and Disease Models | Rice: Chapter 9 |
-| 20 | Evolutionary Stable Strategies | Rice: Chapter 9 |
-| 21 | Developmental Evolution | &nbsp; |
-| 22 | Quantitative Genetics II | &nbsp; |
-| 23-25 | Final Project Presentations | &nbsp; |
-| 26 | Finale: The Future of Evolution |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: The Basic Dynamical Systems of Evolution
+{{< tdclose >}}
+{{< tdopen >}}
+Rice: Chapter 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Forces of Evolution I: Complications
+{{< tdclose >}}
+{{< tdopen >}}
+Rice: Chapters 1 and 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Forces of Evolution II: Optimization
+{{< tdclose >}}
+{{< tdopen >}}
+Rice: Chapters 1 and 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Forces of Evolution III: Mutation, Migration
+{{< tdclose >}}
+{{< tdopen >}}
+Rice: Chapter 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Forces of Evolution IV: Genetic Drift
+{{< tdclose >}}
+{{< tdopen >}}
+Rice: Chapter 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Evolution at The Molecular Level I
+{{< tdclose >}}
+{{< tdopen >}}
+Rice: Chapters 3 and 4  
+  
+Hall: Appendix 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Evolution at The Molecular Level II
+{{< tdclose >}}
+{{< tdopen >}}
+Rice: Chapters 3 and 4  
+  
+Hall: Appendix 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Evolution at The Molecular Level III
+{{< tdclose >}}
+{{< tdopen >}}
+Rice: Chapter 6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+The Algebra of Evolution: Price's Theorem I
+{{< tdclose >}}
+{{< tdopen >}}
+Rice: Chapter 6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+The Algebra of Evolution: Price's Theorem II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Detecting Selection
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Detecting Selection: A Case Study
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Codon Volatility
+{{< tdclose >}}
+{{< tdopen >}}
+Hall: Chapters 1 and 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Coalescent Theory and Phylogenetics
+{{< tdclose >}}
+{{< tdopen >}}
+Hall: Chapters 1 and 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Evolutionary Phylogenetics
+{{< tdclose >}}
+{{< tdopen >}}
+Hall: Chapters 2 and 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Evolutionary Phylogenetics (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Hall: Chapters 2 and 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Quantitative Genetics I
+{{< tdclose >}}
+{{< tdopen >}}
+Rice: Chapter 7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Quantitative Genetics II  
+  
+Host-parasite Interactions
+{{< tdclose >}}
+{{< tdopen >}}
+Rice: Chapter 7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Host-parasite Interactions and Disease Models
+{{< tdclose >}}
+{{< tdopen >}}
+Rice: Chapter 9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Evolutionary Stable Strategies
+{{< tdclose >}}
+{{< tdopen >}}
+Rice: Chapter 9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Developmental Evolution
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Quantitative Genetics II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23-25
+{{< tdclose >}}
+{{< tdopen >}}
+Final Project Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Finale: The Future of Evolution
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

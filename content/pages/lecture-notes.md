@@ -6,11 +6,48 @@ uid: 8db0d4bb-8320-973f-7884-77ad939bac7b
 
 This section provides outlines and questions for a few of the lecture sessions. Additional lecture notes are forthcoming.
 
-| LEC # | TOPICS |
-| --- | --- |
-| 1 | Introduction: The Basic Dynamical Systems of Evolution ([PDF]({{< baseurl >}}/resources/lec1_sum)) |
-| 6 | Evolution at the Molecular Level I ([PDF]({{< baseurl >}}/resources/molecular_evltn)) |
-| 19 | Host-parasite Interactions and Disease Models ([PDF]({{< baseurl >}}/resources/lec19_sex)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: The Basic Dynamical Systems of Evolution ([PDF]({{< baseurl >}}/resources/lec1_sum))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Evolution at the Molecular Level I ([PDF]({{< baseurl >}}/resources/molecular_evltn))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Host-parasite Interactions and Disease Models ([PDF]({{< baseurl >}}/resources/lec19_sex))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Questions
 ---------
