@@ -71,4 +71,4 @@ The supporting files are needed to complete the lab exercises. Each lab explains
 The Population Genetics and Evolution Simulation
 ------------------------------------------------
 
-The Populus Java® computer program, version 5.3 that is needed to complete Lab 1 is available at the University of Minnesota [Web site](http://www.cbs.umn.edu/populus/purejava1). Make sure you have checked for Java® compatibility according to the instructions on that page. A PDF file of ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[instructions for all modules is available (PDF)](https://www.ableweb.org/biologylabs/wp-content/uploads/volumes/vol-21/6-barton.pdf).
+The Populus Java® computer program, version 5.3 that is needed to complete Lab 1 is available at the University of Minnesota [Web site](http://www.cbs.umn.edu/populus/purejava1). Make sure you have checked for Java® compatibility according to the instructions on that page. A PDF file of [instructions for all modules is available (PDF)](https://www.ableweb.org/biologylabs/wp-content/uploads/volumes/vol-21/6-barton.pdf).
