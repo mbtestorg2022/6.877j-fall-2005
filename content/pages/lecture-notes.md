@@ -92,7 +92,7 @@ Gould, S. J. _The Panda's Thumb: More Reflections in Natural History_. Reissue e
 14.  Derive the Hardy-Weinberg equilibrium. What assumptions must be made?
 15.  What does the following table illustrate? Focus on the assumptions that have to be made to apply this model.  
       
-    ![Allele frequencies.](/courses/electrical-engineering-and-computer-science/6-877j-computational-evolutionary-biology-fall-2005/lecture-notes/allele.jpg)  
+    {{< resource "c97c48c8-0851-35f3-2e1a-e7f98f00123a" >}}  
     
     Allele frequencies.
     
